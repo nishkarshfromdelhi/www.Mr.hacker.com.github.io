@@ -1,0 +1,39 @@
+body{
+    background: url(hack.jpg);
+    background-size: cover;
+    height: 700px;}
+ul li{
+    color: white;
+    list-style: none;
+    float: left;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 10px;
+    position: relative;
+    top: -15px;
+    right: 55px;}
+
+
+p{
+    color: white;
+    float: left;
+
+}
+img{
+    filter: invert(100%);
+    float: right;
+}
+marquee{
+    color: white;
+}
+#hack{
+    font-size: 50px;
+    position: relative;
+    top: 200px;
+}
+#vivek{
+    color: white;
+    position: relative;
+    top: 500px;
+   
+}
